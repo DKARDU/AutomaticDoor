@@ -11,10 +11,5 @@ GY-906-BCC IR Infrared Thermometry Module</br>
 Two Tower Pro MG90S Servos</br>
 Buzzer, https://amzn.to/2BeYzu3</br>
 HC-SR501 Human infrared sensor, https://amzn.to/3aJAOHX</br>
-Code: https://github.com/DKARDU/AutomaticDoor</br>
-</br>
-Subscribe It's Free ❤ https://bit.ly/2C6HdAg </br>
-</br>
-Thanks for watching, Stay home and Be safe...Have a great day!</br>
 #Arduino #Arduinoproject #Covid-19</br>
 <img src="http://dkardu.oss-cn-hongkong.aliyuncs.com/autodoor/Circuit%20diagram.jpg" />
